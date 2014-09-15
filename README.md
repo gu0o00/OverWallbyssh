@@ -9,4 +9,4 @@ OverWallbyssh
 4.列出翻墙用的ssh进程，只要输入命令 python ssh.py list
 5.结束翻墙用的ssh进程，只要输入命令 python ssh.py kill 
 
-然后用浏览器去痛快的浏览网页吧，浏览器的配置方法可以自己上网查一下，我用的就是Firefox+AutoProxy，挺不错的，Chrome也用响应的插件，可以自己找找。
+然后用浏览器去痛快的浏览网页吧，浏览器的配置方法可以自己上网查一下，我用的就是Firefox+AutoProxy，挺不错的，Chrome也有相应的插件，可以自己找找。
