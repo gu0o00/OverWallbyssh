@@ -4,7 +4,7 @@ import os
 import sys
 
 def start():
-    os.system("ssh -qfnNT -D 127.0.0.1:7070 fastssh.com-guojian@usa-public2.fastssh.com")
+    os.system("ssh -qfnNT -D 127.0.0.1:7070 root@45.114.10.211")
     #os.system('ssh -qfnNT -D 127.0.0.1:7070 fastssh.com-guojian-ph@us-phoenix.fastssh.com')
     #os.system('ssh -qfnNT -D 127.0.0.1:7070 fastssh.com-guojian-jp@jp-1.fastssh.com')
 
